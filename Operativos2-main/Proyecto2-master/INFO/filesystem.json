@@ -1,0 +1,154 @@
+{
+  "name": "root",
+  "subDirectories": {},
+  "files": {
+    "cabeza": {
+      "dato": {
+        "name": "rgea",
+        "size": 12,
+        "blocks": {
+          "cabeza": {
+            "dato": 1,
+            "siguiente": {
+              "dato": 98,
+              "siguiente": {
+                "dato": 87,
+                "siguiente": {
+                  "dato": 49,
+                  "siguiente": {
+                    "dato": 79,
+                    "siguiente": {
+                      "dato": 97,
+                      "siguiente": {
+                        "dato": 59,
+                        "siguiente": {
+                          "dato": 0,
+                          "siguiente": {
+                            "dato": 11,
+                            "siguiente": {
+                              "dato": 99,
+                              "siguiente": {
+                                "dato": 72,
+                                "siguiente": {
+                                  "dato": 27
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "siguiente": {
+        "dato": {
+          "name": "vfbdz",
+          "size": 32,
+          "blocks": {
+            "cabeza": {
+              "dato": 30,
+              "siguiente": {
+                "dato": 57,
+                "siguiente": {
+                  "dato": 68,
+                  "siguiente": {
+                    "dato": 92,
+                    "siguiente": {
+                      "dato": 10,
+                      "siguiente": {
+                        "dato": 60,
+                        "siguiente": {
+                          "dato": 18,
+                          "siguiente": {
+                            "dato": 63,
+                            "siguiente": {
+                              "dato": 64,
+                              "siguiente": {
+                                "dato": 7,
+                                "siguiente": {
+                                  "dato": 5,
+                                  "siguiente": {
+                                    "dato": 52,
+                                    "siguiente": {
+                                      "dato": 53,
+                                      "siguiente": {
+                                        "dato": 56,
+                                        "siguiente": {
+                                          "dato": 9,
+                                          "siguiente": {
+                                            "dato": 71,
+                                            "siguiente": {
+                                              "dato": 96,
+                                              "siguiente": {
+                                                "dato": 93,
+                                                "siguiente": {
+                                                  "dato": 81,
+                                                  "siguiente": {
+                                                    "dato": 50,
+                                                    "siguiente": {
+                                                      "dato": 20,
+                                                      "siguiente": {
+                                                        "dato": 89,
+                                                        "siguiente": {
+                                                          "dato": 24,
+                                                          "siguiente": {
+                                                            "dato": 62,
+                                                            "siguiente": {
+                                                              "dato": 19,
+                                                              "siguiente": {
+                                                                "dato": 76,
+                                                                "siguiente": {
+                                                                  "dato": 77,
+                                                                  "siguiente": {
+                                                                    "dato": 47,
+                                                                    "siguiente": {
+                                                                      "dato": 43,
+                                                                      "siguiente": {
+                                                                        "dato": 36,
+                                                                        "siguiente": {
+                                                                          "dato": 14,
+                                                                          "siguiente": {
+                                                                            "dato": 34
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
